@@ -1,4 +1,4 @@
-//this code donest use delay(),millis(),micros() 
+//this code does not use delay(),millis(),micros() 
 // Pin definitions
 const int lm35Pin = A0;  // LM35 temperature sensor connected to analog pin A0
 const int ledPin = 13;    // Onboard LED connected to digital pin 13
